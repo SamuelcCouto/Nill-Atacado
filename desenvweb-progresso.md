@@ -10,7 +10,7 @@ Mantido pela skill desenvwebpremium. Atualize ao fim de cada etapa. Este arquivo
 | Etapa | Skill | Situação | Aprovado em | Notas (o que foi decidido, o que falta) |
 |---|---|---|---|---|
 | 0 Preparar | — | concluída | 2026-10-26 | Repo GitHub SamuelcCouto/Nill-Atacado. Material organizado em assets/ (logo PNG transparente, banner, 7 fotos de produto). Pedido via carrinho → WhatsApp. |
-| 1 Identidade | identidade-visual | em andamento | | Modo "completar": cliente já tem logo (azul royal + amarelo). |
+| 1 Identidade | identidade-visual | aguardando aprovação | | Modo completar. Plano em identidade/plano-identidade.md: pastilha amarela, Rubik + Atkinson Hyperlegible Next, verde de pedido #0B7A3E. |
 | 2 Movimento e construção | site-premium | | | Movimento moderado: é loja, transição não pode atrapalhar compra. |
 | 3 Mapa | cartographer | | | |
 | 4 Ajustes | — | | | |
