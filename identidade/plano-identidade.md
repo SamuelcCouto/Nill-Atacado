@@ -1,6 +1,6 @@
 # Plano de identidade — Nill Atacado (modo completar)
 
-Situação: **aguardando aprovação**. Nada foi construído.
+Situação: **aprovado em 2026-10-26**.
 
 ## Ideia em uma frase
 **A pastilha amarela.** A faixa arredondada "ATACADO" da logo vira o sinal de preço de atacado no site inteiro: ela aparece onde o lojista ganha alguma coisa (preço por quantidade, frete grátis, "adicionado ao pedido"). O resto da loja fica quieto, organizado e rápido, como no Mercado Livre.
